@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://prasad89.live/
+
+# Sitemaps
+Sitemap: https://prasad89.live/sitemap.xml
