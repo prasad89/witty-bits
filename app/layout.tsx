@@ -4,7 +4,8 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Prasad's Blog",
-  description: "Created by @prasad89",
+  description:
+    "Explore the witty world of Prasad Bhalerao @prasad89, a software engineer sharing tech explanations with sarcastic humor. Delve into coding conundrums, tech trends, and software engineering intricacies. Expect fresh perspectives and signature wit in my blog. Laugh, learn, and enjoy tech insights with a twist. Join me on this entertaining journey through the fascinating world of technology.",
 };
 
 export default function RootLayout({
