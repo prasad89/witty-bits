@@ -36,6 +36,7 @@ export async function getPostByName(
 
   const { frontmatter, content } = await compileMDX<{
     title: string;
+    description: string;
     date: string;
     tags: string[];
   }>({
