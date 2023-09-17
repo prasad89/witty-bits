@@ -67,6 +67,7 @@ export async function getPostByName(
     meta: {
       id,
       title: frontmatter.title,
+      description: frontmatter.description,
       date: frontmatter.date,
       tags: frontmatter.tags,
     },

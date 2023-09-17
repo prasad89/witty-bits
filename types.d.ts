@@ -3,6 +3,7 @@ import { JSXElementConstructor, ReactElement } from "react";
 type Meta = {
   id: string;
   title: string;
+  description: string;
   date: string;
   tags: string[];
 };
