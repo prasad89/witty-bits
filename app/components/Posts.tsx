@@ -11,7 +11,7 @@ export default async function Posts() {
   return (
     <section className="mt-6 mx-auto max-w-3xl">
       <h2 className="text-4xl font-bold dark:text-white/90">
-        Tech explanations with sarcastic humor
+        Tech explanations with witty humor
       </h2>
       <ul className="w-full list-none p-0">
         {posts.map((post) => (

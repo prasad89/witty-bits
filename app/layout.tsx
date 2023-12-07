@@ -5,7 +5,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "WittyBits",
   description:
-    "Explore the witty world of Prasad Bhalerao @prasad89, a software engineer sharing tech explanations with sarcastic humor. Delve into coding conundrums, tech trends, and software engineering intricacies. Expect fresh perspectives and signature wit in my blog. Laugh, learn, and enjoy tech insights with a twist. Join me on this entertaining journey through the fascinating world of technology.",
+    "Discover the tech-savvy humor of Prasad Bhalerao @prasad89, a witty software engineer. Dive into coding puzzles, tech trends, and software intricacies on his blog. Get ready for a unique blend of humor and tech insights. Join the fun and explore the world of technology with a twist!",
 };
 
 export default function RootLayout({
