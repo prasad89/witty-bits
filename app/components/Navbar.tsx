@@ -9,7 +9,7 @@ export default function Navbar() {
             href="/"
             className="text-white/90 no-underline hover:text-white"
           >
-            Prasad Bhalerao
+            WittyBits
           </Link>
         </h1>
       </div>
