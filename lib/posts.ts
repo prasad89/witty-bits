@@ -54,7 +54,7 @@ export async function getPostByName(
           [
             rehypeAutolinkHeadings,
             {
-              behaviour: "warp",
+              behavior: "wrap",
             },
           ],
         ],
